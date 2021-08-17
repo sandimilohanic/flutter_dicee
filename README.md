@@ -1,0 +1,1 @@
+![Finished App](https://github.com/sandimilohanic/flutter_dicee/blob/master/dicee.png)
